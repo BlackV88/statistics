@@ -1,0 +1,17 @@
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\bin\Debug\net6.0-windows\Homework 4 fin.exe
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\bin\Debug\net6.0-windows\Homework 4 fin.deps.json
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\bin\Debug\net6.0-windows\Homework 4 fin.runtimeconfig.json
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\bin\Debug\net6.0-windows\Homework 4 fin.dll
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\bin\Debug\net6.0-windows\Homework 4 fin.pdb
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.csproj.AssemblyReference.cache
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework_4_fin.Form1.resources
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.csproj.GenerateResource.cache
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.AssemblyInfoInputs.cache
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.AssemblyInfo.cs
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.dll
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\refint\Homework 4 fin.dll
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.pdb
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\Homework 4 fin.genruntimeconfig.cache
+C:\Users\vince\Downloads\statistics\HW4\Homework 4 fin\obj\Debug\net6.0-windows\ref\Homework 4 fin.dll
