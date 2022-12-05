@@ -1,0 +1,33 @@
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\bin\Debug\univariant_distribution.exe.config
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\bin\Debug\univariant_distribution.exe
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\bin\Debug\univariant_distribution.pdb
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.Form1.resources
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.csproj.GenerateResource.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.exe
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\Nuova cartella\univariant_distribution\obj\Debug\univariant_distribution.pdb
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\bin\Debug\univariant_distribution.exe.config
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\bin\Debug\univariant_distribution.exe
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\bin\Debug\univariant_distribution.pdb
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.Form1.resources
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.csproj.GenerateResource.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.exe
+C:\Users\Lorenzo\Desktop\Homeworks_statistics\random_number_mean\obj\Debug\univariant_distribution.pdb
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.csproj.AssemblyReference.cache
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.csproj.SuggestedBindingRedirects.cache
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.Form1.resources
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.Properties.Resources.resources
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.csproj.GenerateResource.cache
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.csproj.CoreCompileInputs.cache
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.exe
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\obj\Debug\univariant_distribution.pdb
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\bin\Debug\univariant_distribution.exe.config
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\bin\Debug\univariant_distribution.exe
+Z:\1805772-Statistics_Homeworks\Homework_2\random_number_mean\bin\Debug\univariant_distribution.pdb
